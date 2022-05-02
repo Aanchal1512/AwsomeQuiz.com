@@ -17,13 +17,13 @@ header{
 }
 
 header h1{
-    margin: 19px;
-    font-size:  50px;
+    margin: 1.390922401171303vw;
+    font-size:  3.6603221083455346vw;
     font-weight: 500;
 }
 
 header h1 i{
-    padding: 10px;
+    padding:  0.7320644216691069vw;
 }
 
 section{
@@ -31,7 +31,7 @@ section{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin: 35px 0px 35px 0px;
+    margin: 2.562225475841874vw 0px 2.562225475841874vw 0px;
 }
 
 li{
@@ -48,10 +48,10 @@ section li a button{
     border-radius: 5px;
     background: #fff;
     cursor: pointer;
-    margin: 10px;
+    margin: 0.7320644216691069vw;
 }
 
 section li a button:hover{
-    box-shadow: 0px 10px 5px 1px rgba(0,0,0,0.1);
+    box-shadow: 0px 0.7320644216691069vw 0.36603221083455345vw 0.07320644216691069vw rgba(0,0,0,0.1);
     
 }
